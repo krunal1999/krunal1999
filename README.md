@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krunal1999&label=Profile%20views&color=0e75b6&style=flat" alt="krunal1999" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krunal1999" alt="krunal1999" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krunal1999&theme=dracula" alt="krunal1999" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🌱 I’m currently learning **Frontend Development**
