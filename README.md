@@ -7,15 +7,11 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krunal1999&theme=dracula" alt="krunal1999" /></a> </p> -->
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Fullstack Development**
 
-- 🤝 Future goal to become **Blockchain Developer**
-
-- 💬 Ask/Tell me about **Full Stack Development, Mern Stack**
+- 💬 Ask/Tell me about **Full Stack Development, Mern Stack, Springboot**
 
 - 📫 Contact me at **krunaldhavle1999@gmail.com**
-
-- ⚡ Fun fact **Coding journey never ends..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
