@@ -80,10 +80,10 @@
 
 &nbsp; <br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=krunal1999&theme=radical" alt="krunal1999" /></p>
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=krunal1999&theme=radical" alt="krunal1999" /></p> -->
 &nbsp; <br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=krunal1999&show_icons=true&locale=en&theme=radical" alt="krunal1999" /></p>
-&nbsp; <br> &nbsp; <br> &nbsp; <br>
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=krunal1999&show_icons=true&locale=en&theme=radical" alt="krunal1999" /></p>
+&nbsp; <br> &nbsp; <br> &nbsp; <br> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krunal1999&show_icons=true&locale=en&layout=compact&theme=radical" alt="krunal1999" /></p> <br>
